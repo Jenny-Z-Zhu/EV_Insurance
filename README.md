@@ -25,6 +25,6 @@ And here are some highlights for Model Effectiveness, Value, and Interpretabilit
 3. Efficiency: The system delivers predictions in real time, with latency under 200 milliseconds, confirmed through rigorous stress testing to ensure fast response even under heavy load.
 4. Interpretability: The model remains explainable, with over 80% of decision-making covered by key features, as validated using SHAP analysis.
 
-Note: Due to the sensitivity of live EV data and limited access to company’s internal claims, the prototype was built using a Kaggle dataset sourced from Porto Seguro’s Safe Driver Prediction that reflects realistic insurance claim behaviors and demographic features. While not a direct feed from BC drivers, it provides a valuable foundation to validate the dynamic risk modeling framework.
+Note: Due to the sensitivity of live EV data and limited access to company’s internal claims, the prototype was built using a Kaggle dataset sourced from Porto Seguro’s Safe Driver Prediction that reflects realistic insurance claim behaviors and demographic features without giving specific meanings of each variable. While not a direct feed from BC drivers, it provides a valuable foundation to validate the dynamic risk modeling framework.
 In a real-world setting, the project could use data from Tesla’s vehicle logs, ICBC claim records, and sensor inputs from smart charging systems to support minute-level pricing adjustment and preventive warning systems for high-risk drivers.
 
