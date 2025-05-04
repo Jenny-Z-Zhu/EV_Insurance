@@ -1,4 +1,4 @@
-# Insurance Claim Predictions for Eletric Vehicles
+# Insurance Claim Predictions for Electric Vehicles
 
 I’ve seen an increased amount of electric vehicles on the road in where I live, British Columbia, Canada, especially since the EV Rebate Program in BC initiated in 2011. Every vehicle must obtain at least a basic insurance through ICBC, the provincial corporation in BC providing vehicle insurance, and the insurance for EV has been traditionally operated and priced till now. Local residents, although enjoying government rebates, they suffer from higher than normal insurance premiums. 
 
